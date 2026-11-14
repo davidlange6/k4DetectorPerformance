@@ -773,7 +773,7 @@ ApplicationMgr(
     ExtSvc=[
         geoservice,
         EventDataSvc("EventDataSvc"),
-        UniqueIDGenSvc("uidSvc"),
+        UniqueIDGenSvc("UniqueIDGenSvc"),
         RndmGenSvc(),
     ],
     OutputLevel=INFO,
